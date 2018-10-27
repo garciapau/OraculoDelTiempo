@@ -1,0 +1,17 @@
+.idea/
+.gradle/
+*.iml
+*.ipr
+*.iws
+log/
+logs/
+.DS_Store
+build/
+target/
+node_modules/
+.project
+.classpath
+*/.project
+*/.classpath
+*/eclipse-build
+/.settings/
