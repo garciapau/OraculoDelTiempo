@@ -1,0 +1,20 @@
+{
+  "name": "alexa-skill-prediccion-tiempo",
+  "version": "2.0.0",
+  "description": "Estado del tiempo actual y predicción del futuro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "prediccion",
+	"tiempo"
+  ],
+  "author": "www.linkedin.com/in/paugarcia",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ask-sdk": "^2.0.0"
+  }
+}
